@@ -1,0 +1,29 @@
+.color-scheme-primary {
+    background-color: #81c784;
+    color: #000;
+}
+
+.color-scheme-primary-light {
+    background-color: #b2fab4;
+    color: #000;
+}
+
+.color-scheme-primary-dark {
+    background-color: #519657;
+    color: #000;
+}
+
+.color-scheme-secondary {
+    background-color: #33691e;
+    color: #fff;
+}
+
+.color-scheme-secondary-light {
+    background-color: #629749;
+    color: #000;
+}
+
+.color-scheme-secondary-dark {
+    background-color: #003d00;
+    color: #fff;
+}
